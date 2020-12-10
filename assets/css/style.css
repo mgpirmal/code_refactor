@@ -119,7 +119,7 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Tried consolidating these 3 too. I tried changing the html to an ID and changing it here too */
 .online-reputation-management{
     margin-bottom: 20px;
     padding: 50px;
